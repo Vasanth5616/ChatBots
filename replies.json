@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "question": "How are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "Where can I subscribe?",
+      "answer": "Idk, subscribe to what?"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "hey",
+      "answer": "Hiiii"
+    },
+    {
+      "question": "italy capital?",
+      "answer": "rome it is"
+    },
+    {
+      "question": "guess my name",
+      "answer": "Is it tomcruise"
+    },
+    {
+      "question": "my name is vasi",
+      "answer": "Thats a sweet name"
+    },
+    {
+      "question": "& C:/Users/Vasanth/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Vasanth/OneDrive/MyPy/chatbots/chatbot3.py",
+      "answer": "& C:/Users/Vasanth/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Vasanth/OneDrive/MyPy/chatbots/chatbot3.py"
+    },
+    {
+      "question": "hi",
+      "answer": "Hey man"
+    },
+    {
+      "question": "whatup",
+      "answer": "Nm..u?"
+    },
+    {
+      "question": "no",
+      "answer": "ok then tell me"
+    },
+    {
+      "question": "sky colour?",
+      "answer": "it sky blue"
+    },
+    {
+      "question": "who am i",
+      "answer": "youre vasi, my creator"
+    },
+    {
+      "question": "thanks",
+      "answer": "you too"
+    },
+    {
+      "question": "fuck you",
+      "answer": "Warning, not again"
+    }
+  ]
+}
